@@ -1,5 +1,4 @@
-## Hi there 👋
-## Hello World!
+## From the deep darkness of nightfall, I see lights.
 
 <!--
 **mhnwa/mhnwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
