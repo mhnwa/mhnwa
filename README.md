@@ -1,4 +1,5 @@
 ## From the deep darkness of night, I see lights.
+![Hubble Ultra Deep Field](https://github.com/mhnwa/mhnwa/blob/main/hubble-3.png)
 
 <!--
 **mhnwa/mhnwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,14 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: no fun.
-some modification1
-some modification2
-some modification3
-some modificatino4
-some modification 5
-some modification6
-some modification78
-you will never walk alone.
 
 
 This is the person who want to change the world.
