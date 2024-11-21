@@ -1,4 +1,4 @@
-## From the deep darkness of night, I see lights.
+## From the deep darkness of the universe, I see lights.
 ![Hubble Ultra Deep Field](https://github.com/mhnwa/mhnwa/blob/main/hubble-3.png)
 
 <!--
